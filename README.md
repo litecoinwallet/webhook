@@ -2,6 +2,7 @@ Released by @Litecoinwallet on Discord
 discord.gg/ZfJ6qAGpJu
 
 ----------------- IMPORTANT -----------------
+
 How Download: Code - Download ZIP - Extract it
 * This program is for education ONLY!
 * I am not responsible for any damage!
